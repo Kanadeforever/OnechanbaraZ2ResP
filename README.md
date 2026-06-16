@@ -28,3 +28,4 @@ MinHook 通过 CMake `FetchContent` 自动下载，无需手动处理。
 ## 依赖
 
 存档重定向需要 [MinHook](https://github.com/TsudaKageyu/minhook)
+原始高分辨率补丁：[Guzz](https://web.archive.org/web/20190531122331/https://forums.guru3d.com/threads/nvidia-anti-aliasing-guide-updated.357956/page-184#post-5381043). 感谢他的贡献不然不能成功的转换成不需要修改exe的插件形式。
