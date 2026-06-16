@@ -1,4 +1,4 @@
-# Onechanbara Z2 — ASI 插件集
+# Onechanbara Z2 高分辨率补丁+
 
 两个 ASI 插件，配合 Ultimate ASI Loader 使用，修复和增强 PC 版《お姉チャンバラZ2 ～カオス～》。
 
