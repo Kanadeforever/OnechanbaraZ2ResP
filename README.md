@@ -1,6 +1,6 @@
 # Onechanbara Z2 高分辨率补丁+
 
-两个 ASI 插件，配合 Ultimate ASI Loader 使用，修复和增强 PC 版《お姉チャンバラZ2 ～カオス～》。
+两个 ASI 插件，配合 Ultimate ASI Loader 使用，修复和增强 PC 版《[お姉チャンバラZ2 ～カオス～](https://store.steampowered.com/app/446390)》。
 
 ## 插件
 
